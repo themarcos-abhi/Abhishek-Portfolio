@@ -60,7 +60,7 @@ const About = () => {
             
             <div className="pt-4 border-t border-white/10">
               <a 
-                href="#" 
+                href="https://drive.google.com/file/d/1l_rY8GeCKMHpf2TAZ90WLE1cnCGM5kkq/view?usp=sharing" 
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-cyan-500/10 text-cyan-400 font-medium hover:bg-cyan-500/20 transition-all border border-cyan-500/20"
               >
                 <Download size={18} />
